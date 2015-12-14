@@ -1,0 +1,14 @@
+total 76
+-rwxrwxr-x 1 stark stark 8672 Dec 13 14:21 a.out
+-rw-rw-r-- 1 stark stark  659 Dec 11 00:58 child.c
+-rw-rw-r-- 1 stark stark 1167 Dec 13 14:30 myshell.c
+-rw-r--r-- 1 stark stark    0 Dec 13 15:28 out.txt
+-rw-r----- 1 stark stark  775 Dec 11 15:36 p2.c
+-rw-r----- 1 stark stark  572 Dec 10 21:19 Pipe1.c
+-rwxrwxr-x 1 stark stark 8712 Dec 13 15:28 red
+-rw-rw-r-- 1 stark stark  246 Dec 13 15:28 red2.c
+-rw-rw-r-- 1 stark stark  284 Dec 13 14:20 red.c
+-rw-r--r-- 1 stark stark    0 Dec 13 13:05 sam1.txt
+-rw-rw-r-- 1 stark stark  110 Dec 13 14:18 sam.c
+-rwxrwxr-x 1 stark stark 9032 Dec 12 14:05 shell
+-rwxrwxr-x 1 stark stark 9224 Dec 13 14:31 shell2
